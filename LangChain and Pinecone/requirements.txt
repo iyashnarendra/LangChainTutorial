@@ -1,0 +1,11 @@
+langchain
+openai
+docx2txt
+pypdf
+tiktoken
+requests
+pandas
+aiohttp
+PyYAML
+python-dotenv
+numpy
